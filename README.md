@@ -1,4 +1,4 @@
-###Hi! I'm Om 👋 
+### Hi! I'm Om 👋 
 
 - 👨‍🎓 I'm an engineering student, currently in my last year.
 - 🔭 I’m currently working on a simple snake game using Pygame.
