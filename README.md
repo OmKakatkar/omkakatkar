@@ -1,9 +1,9 @@
-<h1> Hey! < Developers/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hey! Folks <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=omkakatkar.omkakatkar)
 
 <div size='20px'> 
-<p>Hi! My name is Om. Thanks for visiting my Profile :smile:</p>
+<p>HMy name is Om. Thanks for visiting my Profile :smile:</p>
 <p>Enjoy your stay here.</p>
 </div>
 
@@ -12,15 +12,11 @@
 <!--- TODO: Get a different image here --->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🧑‍💼 I am looking for Frontend Opportunities in React.js
+- 🧑‍💼 Most of my day goes in front of my PC at work.
 
-- 📘 I am learning Node.js, React Native, Next.js
+- ❤️ Wnen I am not working, you'll find me watching Anime or tending to my terrace garden.
 
-- 👯 I look forward to contribute in OpenSource starting in 2023.
 
-- ❤️ I love to watch Anime or explore Linux in my free time.
-
-- 🌱 I have a terrace garden at home which I tend to.
 
 <h2> Skills </h2>
 
