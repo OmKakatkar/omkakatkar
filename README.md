@@ -1,7 +1,5 @@
 <h1> Hey! Folks <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=omkakatkar.omkakatkar)
-
 <div size='20px'> 
 <p>HMy name is Om. Thanks for visiting my Profile :smile:</p>
 <p>Enjoy your stay here.</p>
@@ -9,14 +7,24 @@
 
 <h2> About Me </h2>
 
-<!--- TODO: Get a different image here --->
+<!--- TODO: Get a different image here 
+
+<h2> Statistics </h2>
+<img alt="GitHub Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=omkakatkar&theme=redical&area=true&custom_title=Contribution%20Graph"/>
+
+|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkakatkar&show_icons=true&theme=radical&custom_title=Github%20Stats&count_private=true&border_radius=0)|![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=omkakatkar&theme=radical&layout=compact&border_radius=0&langs_count=8)|
+|-|-| 
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkakatkar&langs_count=5&theme=radical&layout=compact&border_radius=0&card_width=480px)|![GitHub Streak](https://streak-stats.demolab.com?user=omkakatkar&theme=radical&border_radius=0&mode=weekly)|
+
+<br><br>
+
+<h2 align='center'>Show your ❤️ by starring some repositories!</h2>
+--->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🧑‍💼 Most of my day goes in front of my PC at work.
 
 - ❤️ Wnen I am not working, you'll find me watching Anime or tending to my terrace garden.
-
-
 
 <h2> Skills </h2>
 
@@ -32,15 +40,7 @@
 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/omkakatkar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://www.twitter.com/omkakatkar'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 
-<h2> Statistics </h2>
-<img alt="GitHub Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=omkakatkar&theme=redical&area=true&custom_title=Contribution%20Graph"/>
 
-|![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkakatkar&show_icons=true&theme=radical&custom_title=Github%20Stats&count_private=true&border_radius=0)|![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=omkakatkar&theme=radical&layout=compact&border_radius=0&langs_count=8)|
-|-|-| 
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkakatkar&langs_count=5&theme=radical&layout=compact&border_radius=0&card_width=480px)|![GitHub Streak](https://streak-stats.demolab.com?user=omkakatkar&theme=radical&border_radius=0&mode=weekly)|
 
-<br><br>
 
-<h2 align='center'>Show your ❤️ by starring some repositories!</h2>
