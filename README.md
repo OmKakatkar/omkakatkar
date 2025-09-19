@@ -1,7 +1,7 @@
 <h1> Hey! Folks <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <div size='20px'> 
-<p>HMy name is Om. Thanks for visiting my Profile :smile:</p>
+<p>Hey my name is Om. Thanks for visiting my Profile :smile:</p>
 <p>Enjoy your stay here.</p>
 </div>
 
